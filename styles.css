@@ -233,7 +233,7 @@ label:hover {
   display: none;
 }
 
-section:nth-child(2) {
+.trial {
   border-top: 1px solid var(--light-grayish-blue);
   margin: 2.375rem 0 0;
 }
